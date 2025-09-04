@@ -5,7 +5,7 @@
 * **Category**: Injection
 * **Difficulty**: ⭐⭐
 * **Description**: Log in with the administrator’s user account.
-* **Link Resource**: {this link}
+* **Link Resource**: `http://localhost:3000/#/score-board?categories=Injection`
 
 ## Solution
 
