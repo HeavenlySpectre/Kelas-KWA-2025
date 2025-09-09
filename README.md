@@ -12,4 +12,5 @@ The OWASP Juice Shop can be access from this link
 
 This section covers challenges related to injection vulnerabilities, primarily focusing on SQL Injection to bypass login forms.
 You can find the challenges at this given link
+
 `http://localhost:3000/#/score-board?categories=Injection`
